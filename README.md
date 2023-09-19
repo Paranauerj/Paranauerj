@@ -16,24 +16,23 @@ I have knowledge in: Golang, C#, Git, Flutterflow, Cibersecurity, .NET Core and 
 You can reach me at joaopaulocostarj@gmail.com
 
 <p align="center">
-      <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#" width="40" height="40" style="object-fit: contain;"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="go" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://app.flutterflow.io/images/ff_logo_small.png" alt="flutterflow" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" alt="firebase" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="object-fit: contain;"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://images.prismic.io/ionicframeworkcom/66cfdbef-e59d-463a-8e24-12cb233e9d97_ionic+logo+blue.png?auto=compress,format" alt="ionic" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="angular" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" style="object-fit: contain;"/>
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40" style="object-fit: contain;"/>
-
+    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#" width="40" height="40" style="object-fit: contain;" title="c#"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="go" width="40" height="40" style="object-fit: contain;" title="go"/>
+    <img src="https://app.flutterflow.io/images/ff_logo_small.png" alt="flutterflow" width="40" height="40" style="object-fit: contain;" title="FlutterFlow"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" alt="firebase" width="40" height="40" style="object-fit: contain;" title="Firebase"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="object-fit: contain;" title="Git"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" style="object-fit: contain;" title="Bootstrap"/>
+    <img src="https://images.prismic.io/ionicframeworkcom/66cfdbef-e59d-463a-8e24-12cb233e9d97_ionic+logo+blue.png?auto=compress,format" alt="ionic" width="40" height="40" style="object-fit: contain;" title="Ionic"/>
+    <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="angular" width="40" height="40" style="object-fit: contain;" title="Angular"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="object-fit: contain;" title="Node.js"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40" style="object-fit: contain;" title="TypeScript"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40" height="40" style="object-fit: contain;" title="JavaScript"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" width="40" height="40" style="object-fit: contain;" title="PHP"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40" style="object-fit: contain;" title="Laravel"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" style="object-fit: contain;" title="Python"/>
+    <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40" style="object-fit: contain;" title="Django"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" style="object-fit: contain;" title="MySQL"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40" style="object-fit: contain;" title="Docker"/>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0">
