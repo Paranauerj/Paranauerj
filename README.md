@@ -3,7 +3,7 @@
 <h4 align="center">
   
 [![Github Badge](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Paranauerj/)](https://github.com/Paranauerj/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-costa-448271169/?locale=en_US)](https://www.linkedin.com/in/jo%C3%A3o-paulo-costa-448271169/?locale=en_US)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-rua-448271169/?locale=en_US)](https://www.linkedin.com/in/jo%C3%A3o-paulo-rua-448271169/?locale=en_US)
 [![Email Badge](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red&link=joaopaulocostarj@gmail.com)](mailto:joaopaulocostarj@gmail.com)
 
 </h4>
